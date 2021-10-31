@@ -1,2 +1,4 @@
 # coursera-test
-Coursera test Repository
+Coursera test
+
+This repository is ceated for learning purpose only
